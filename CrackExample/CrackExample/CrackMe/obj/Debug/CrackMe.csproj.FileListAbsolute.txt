@@ -1,0 +1,8 @@
+C:\Users\102542177\Downloads\CrackExample\CrackExample\CrackMe\bin\Debug\CrackMe_File.exe
+C:\Users\102542177\Downloads\CrackExample\CrackExample\CrackMe\bin\Debug\CrackMe.exe.config
+C:\Users\102542177\Downloads\CrackExample\CrackExample\CrackMe\bin\Debug\CrackMe.exe
+C:\Users\102542177\Downloads\CrackExample\CrackExample\CrackMe\bin\Debug\CrackMe.pdb
+C:\Users\102542177\Downloads\CrackExample\CrackExample\CrackMe\obj\Debug\CrackMe.csprojAssemblyReference.cache
+C:\Users\102542177\Downloads\CrackExample\CrackExample\CrackMe\obj\Debug\CrackMe.csproj.CoreCompileInputs.cache
+C:\Users\102542177\Downloads\CrackExample\CrackExample\CrackMe\obj\Debug\CrackMe.exe
+C:\Users\102542177\Downloads\CrackExample\CrackExample\CrackMe\obj\Debug\CrackMe.pdb
